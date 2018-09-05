@@ -1,0 +1,26 @@
+Survey Answers
+
+1. I am taking this course because I have an interest in graphics. I have always been interested in how 
+graphics are created and this course should be helpful for me. I am a visual person and seeing my work 
+come to life excites me.
+
+2. In this course I think we will learn about 2D, 3D and animated graphics as stated in the first course and syllabus material.
+We will also have to learn how to use the linux environment and learn C++ as the programming language. Linear algebra will 
+also be used.
+
+3. Java, JavaScript, C. 
+Java was my first programming language and I have been doing it for 3 years.
+JavaScript was the language used for CSC337 web development and is similar to Java so I feel comfortable with it.
+For C I have had only one or two working with it, but it was fairly easy to pick up.
+
+4. I do not have any experience with C++ and I have not used STL before.
+
+5. N/A (no C++ experience).
+
+6. My favorite computer graphics are abstract art. I enjoy having abstract wallpapers as my backgrounds.
+I like abstract because of the cool design. I usually appreciate any art in video games though (8bit, 3D, etc).
+
+7. I have not seen any bad computer graphics. Even bad graphics I can still appreciate.
+
+8. Something that I am interested in is technology in modern cars. Car manufacturers are coming out with features
+such as a full 360 view of your car when backing up, self parking, and full digital dashboards.
